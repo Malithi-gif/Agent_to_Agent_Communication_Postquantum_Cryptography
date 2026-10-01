@@ -1,0 +1,6 @@
+system,concurrency,tasks,successful_tasks,failed_tasks,completion_rate_percent,mean_latency_ms,median_latency_ms,std_deviation_ms,p95_latency_ms,p99_latency_ms,throughput_tasks_per_sec,experiment_duration_sec
+standard_tls_bearer,2,100,100,0,100.0,62.6117,59.8727,21.8403,65.1188,211.877,31.8522,3.1395
+standard_tls_bearer,5,100,100,0,100.0,133.2718,131.556,12.8394,152.6114,164.2813,37.0507,2.699
+standard_tls_bearer,10,100,100,0,100.0,261.7275,259.9579,17.5567,296.7341,314.8407,37.9088,2.6379
+standard_tls_bearer,20,100,100,0,100.0,511.4312,511.4366,33.8958,559.8118,584.7128,38.5896,2.5914
+standard_tls_bearer,50,100,100,0,100.0,1177.4166,1243.2754,211.1623,1386.9567,1394.3028,37.9327,2.6362

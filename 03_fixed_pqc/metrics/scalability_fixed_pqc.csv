@@ -1,0 +1,6 @@
+system,security,concurrency,tasks,successful_tasks,failed_tasks,completion_rate_percent,mean_latency_ms,median_latency_ms,std_deviation_ms,p95_latency_ms,p99_latency_ms,throughput_tasks_per_sec,experiment_duration_sec
+fixed_pqc,ML-KEM-768 + ML-DSA-65 + AES-256-GCM,2,100,100,0,100.0,184.2938,180.1048,26.9495,203.7534,349.9705,10.84,9.2251
+fixed_pqc,ML-KEM-768 + ML-DSA-65 + AES-256-GCM,5,100,100,0,100.0,438.8245,439.8108,32.1201,485.436,510.9747,11.2707,8.8726
+fixed_pqc,ML-KEM-768 + ML-DSA-65 + AES-256-GCM,10,100,100,0,100.0,849.5207,864.9985,82.7993,987.021,991.3785,11.6748,8.5655
+fixed_pqc,ML-KEM-768 + ML-DSA-65 + AES-256-GCM,20,100,100,0,100.0,1662.0564,1659.7298,113.9154,1831.1543,1835.905,11.8826,8.4157
+fixed_pqc,ML-KEM-768 + ML-DSA-65 + AES-256-GCM,50,100,100,0,100.0,4286.1006,4252.3872,339.2907,4845.1926,4848.4662,11.4798,8.711

@@ -1,0 +1,4 @@
+system,tasks,mean_bytes_per_task,median_bytes_per_task,std_bytes_per_task,p95_bytes_per_task,p99_bytes_per_task,mean_bytes_sent,mean_bytes_received,mean_crypto_bytes_per_task,mean_public_key_bytes,mean_kem_ciphertext_bytes,mean_signature_bytes,mean_encrypted_payload_bytes,mean_delegation_bytes
+classical,500,1772.99,1773.0,1.0583667986861276,1774.0,1774.0,929,843.99,449,96,0,192,161,0
+fixed_pqc,500,19118.98,19119.0,1.0553803368030983,19120.0,19120.0,18275,843.98,16904,3552,3264,9927,161,0
+adaptive_pqc,500,25258.046,25258.0,0.9929026696624628,25259.0,25259.0,24417,841.046,27939,3552,3424,7936,6604,6423

@@ -1,0 +1,4 @@
+timestamp,task_id,source,destination,action,risk,security_mode,kem_algorithm,signature_algorithm,keygen_ms,encap_or_exchange_ms,decap_or_exchange_ms,sign_ms,verify_ms,encrypt_ms,decrypt_ms,request_latency_ms,total_call_latency_ms,bytes_sent,bytes_received,delegation_bytes,audit_enabled,cpu_percent,memory_mb,success
+1786394818,fa518069-3fef-4ddd-a980-1ad7ac62998d,planner,flight,search_flight,LOW,standard,none,none,0,0,0,0,0,0,0,14.5191,101.6767,61,382,0,FALSE,16.3,60.562,TRUE
+1786394818,fa518069-3fef-4ddd-a980-1ad7ac62998d,planner,calendar,check_calendar,MEDIUM,standard,none,none,0,0,0,0,0,0,0,9.4388,19.9243,22,91,0,FALSE,15.4,61.438,TRUE
+1786394818,fa518069-3fef-4ddd-a980-1ad7ac62998d,planner,payment,payment,CRITICAL,standard,none,none,0,0,0,0,0,0,0,8.8346,19.8025,39,108,0,FALSE,23.5,62.254,TRUE

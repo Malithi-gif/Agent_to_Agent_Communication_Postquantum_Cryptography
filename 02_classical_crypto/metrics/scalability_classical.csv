@@ -1,0 +1,6 @@
+system,security,concurrency,tasks,successful_tasks,failed_tasks,completion_rate_percent,mean_latency_ms,median_latency_ms,std_deviation_ms,p95_latency_ms,p99_latency_ms,throughput_tasks_per_sec,experiment_duration_sec
+classical,X25519 + Ed25519 + AES-256-GCM,2,100,100,0,100.0,144.4484,139.461,23.1564,159.9887,288.8617,13.824,7.2338
+classical,X25519 + Ed25519 + AES-256-GCM,5,100,100,0,100.0,335.5164,336.2863,19.8157,366.1074,375.5853,14.844,6.7367
+classical,X25519 + Ed25519 + AES-256-GCM,10,100,100,0,100.0,683.1666,688.2293,43.5362,741.5659,788.2961,14.5801,6.8587
+classical,X25519 + Ed25519 + AES-256-GCM,20,100,100,0,100.0,1340.0813,1341.8115,80.0748,1460.0143,1462.0527,14.7768,6.7674
+classical,X25519 + Ed25519 + AES-256-GCM,50,100,100,0,100.0,3340.7581,3329.2992,275.457,3763.371,3952.7428,14.7623,6.774

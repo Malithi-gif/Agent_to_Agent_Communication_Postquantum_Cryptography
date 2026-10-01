@@ -1,0 +1,2 @@
+security_mode,low_risk_policy,medium_risk_policy,critical_risk_policy,warmup_tasks,measured_tasks,successful_tasks,failed_tasks,completion_rate_percent,mean_latency_ms,median_latency_ms,std_deviation_ms,p95_latency_ms,p99_latency_ms,throughput_tasks_per_sec,experiment_duration_sec
+adaptive_pqc,ML-KEM-512,ML-KEM-768 + ML-DSA-65,ML-KEM-1024 + ML-DSA-87 + Delegation + Audit,20,500,500,0,100.0,98.3311,98.2391,10.1261,115.321,123.347,10.1653,49.1869

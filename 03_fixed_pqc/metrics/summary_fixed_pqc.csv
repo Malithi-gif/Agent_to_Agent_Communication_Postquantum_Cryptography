@@ -1,0 +1,2 @@
+security_mode,kem_algorithm,signature_algorithm,warmup_tasks,measured_tasks,successful_tasks,failed_tasks,completion_rate_percent,mean_latency_ms,median_latency_ms,std_deviation_ms,p95_latency_ms,p99_latency_ms,throughput_tasks_per_sec,experiment_duration_sec
+fixed_pqc,ML-KEM-768,ML-DSA-65,20,500,500,0,100.0,94.6658,96.7626,12.5653,112.7072,121.9779,10.559,47.3529
